@@ -1,0 +1,10 @@
+.add-icon {
+    cursor: pointer;
+    width:70px;
+    height: 70px;
+    padding: auto;
+}
+
+.rotate  {
+    transform: rotate(45deg);
+}
